@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+//@main
 struct Dragon_Gardners_Hackathon_App: App {
     var body: some Scene {
         WindowGroup {
